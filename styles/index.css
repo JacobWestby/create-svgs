@@ -135,8 +135,9 @@ body {
 }
 
 .container {
-  width: 60vw;
+  width: 40vw;
   display: flex;
+  align-items: center;
   flex-direction: column;
   align-content: center;
 }
